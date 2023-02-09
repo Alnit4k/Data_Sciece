@@ -1,0 +1,20 @@
+.topbar{
+    background-color: #c4170c;    
+    height: 50px;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    border: #c4170c solid;
+    color: white ;
+    font-size: larger;
+                      
+}
+
+#header{
+    text-align: center;
+
+}
+
+#container{
+    text-align: center;
+
+}
